@@ -2,7 +2,7 @@
 
 Name: Divya Pothuru NetworkId:DXP62920
 
-VIDEO-LINK:
+VIDEO-LINK: https://drive.google.com/file/d/1wOX5RwR-jN31p0RnV2ep7Q0qEMA7IJx9/view?usp=share_link
 
 1. Use the use case in the class:
 a. Add more Dense layers to the existing code and check how the accuracy changes.
